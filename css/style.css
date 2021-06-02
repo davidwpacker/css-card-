@@ -1,0 +1,55 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 500px;
+    color: #f1f1f1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: #2E7AD3;
+    padding-top: 45px;
+    font: bold;
+}
+h2 {
+    color: #104c90;
+    font-size: 32px;
+}
+
+.blog {
+    margin-top: 45px;
+    margin-bottom: 25px;
+    background-color: rgba(240, 238, 238, 0.884);
+    text-align: center;
+    /* this needs to be in the center of the whole element. Not mid-top */
+}
+
+p {
+    font-style: sans-serif;
+    color: black;
+    font-size: 16px;
+    
+}
+
+.link {
+    color: orange;
+    font-style: bold;
+}
+
+#p2 {
+    margin-top: 9px;
+}
+
+#p3 {
+    padding-bottom: 20px;
+}
+
+/* 
+didn't manage to make them links in 30' 
+
+h2 is not on the left in the center
+
+h1 needs to be 9px 
+
+*/
